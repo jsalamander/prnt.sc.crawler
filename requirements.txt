@@ -1,5 +1,5 @@
 bs4==0.0.1
 bruter==0.0.2
 scrapy
-Pillow==7.0.0
+Pillow==8.3.2
 scrapy-fake-useragent
